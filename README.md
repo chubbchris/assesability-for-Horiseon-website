@@ -5,6 +5,5 @@ I changed names of elements so that code was easier to understand and fixed and 
 I increased Font sized of word to make it easier for someone with bad vison to see.
 I added Alt tags to all images so that in the event that the website didnt load the picture the section would not be blank and website user can still understand the information.
 
-these are links to the git repository and the link of the deployed website 
+## these are links to the git repository and the link of the deployed website 
 https://github.com/chubbchris/assesability-for-Horiseon-website.git
-file:///C:/Users/chubb/OneDrive/Documents/coding-challenges/Develop/index.html
